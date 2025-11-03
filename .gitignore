@@ -1,0 +1,57 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Model checkpoints and saved models
+saved_models/
+*.pth
+*.pkl
+*.h5
+*.ckpt
+*.pt
+
+# Results and outputs
+results/
+*.json
+*.csv
+*.png
+*.jpg
+*.jpeg
+*.pdf
+
+# Log files
+*.log
+logs/
+
+# Data files (if large)
+clinical_data_with_folds_*.csv
+folds_by_*/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
