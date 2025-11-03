@@ -115,8 +115,6 @@ If you use this repository in your research, please cite:
 ```
 
 This project uses implementations from the following works:
-
-### RealMLP
 ```bibtex
 @software{realmlp_standalone,
   author = {Holzmueller, David},
@@ -126,8 +124,6 @@ This project uses implementations from the following works:
   url = {https://github.com/dholzmueller/realmlp-td-s_standalone}
 }
 ```
-
-### TabM
 ```bibtex
 @inproceedings{tabm2025,
   title={TabM: Advancing Tabular Deep Learning With Parameter-Efficient Ensembling},
