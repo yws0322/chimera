@@ -102,8 +102,6 @@ python ensemble_main.py
 
 ## Citations
 
-### This Project
-
 If you use this repository in your research, please cite:
 
 ```bibtex
@@ -115,8 +113,6 @@ If you use this repository in your research, please cite:
   url = {https://github.com/yws0322/chimera}
 }
 ```
-
-### Dependencies
 
 This project uses implementations from the following works:
 
