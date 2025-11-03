@@ -1,3 +1,5 @@
+[![Container Image](https://img.shields.io/badge/HuggingFace-Container_Image-blue?logo=huggingface&logoColor=white)](https://huggingface.co/datasets/yws0322/chimera-submission)
+
 # MICCAI 2025 CHIMERA Challenge Task 1 2nd Place Solution
 
 ## Challenge Overview
